@@ -32,7 +32,7 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 
 <br/>
 
-<h3 align="center">✨ Features</h3>
+<h2 align="center">✨ Features</h2>
 
 | 🎯 Core Feature | ✨ Technical Implementation |
 | :--- | :--- |
