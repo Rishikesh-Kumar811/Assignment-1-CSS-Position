@@ -1,16 +1,10 @@
 <div align="center">
 
-<br/><br/>
-
 <h1>📍 CSS Positioning Masterclass</h1>
 
 ### Advanced CSS Position & Z-Index Layering Showcase
 
-<br/>
-
 A deep-dive into CSS positioning mechanics — demonstrating intricate overlapping layers, sticky headers, floating leaf shadows, and vector e-commerce UI elements.
-
-<br/><br/>
 
 <p align="center">
   <a href="https://assignment-1-lac-eight.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>&nbsp;
@@ -18,19 +12,13 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
   <a href="https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position/issues"><img src="https://img.shields.io/badge/Request_Feature-8B5CF6?style=for-the-badge" alt="Request Feature" /></a>
 </p>
 
-<br/>
-
 </div>
-
-<br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
-
-<br/>
 
 <h2 align="center">✨ Features</h2>
 
@@ -42,13 +30,9 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 | 🔤 **Dual Typography** | Inter for body and Playfair Display for elegant serif headings |
 | 📱 **Responsive Position Adjustments** | Fixed/absolute elements gracefully adapt to mobile viewports |
 
-<br/>
-
 <h2 align="center">🏗️ Architecture</h2>
 
 > Pure CSS positioning architecture — multi-layered layout construction without modern framework dependencies.
-
-<br/>
 
 <h2 align="center">🚀 Quick Start</h2>
 
@@ -60,11 +44,7 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position.git
 cd Assignment-1-CSS-Position && open index.html
 \`\`\`
 
-<br/>
-
 <div align="center">
-
-<br/>
 
 <h3>Built with ❤️ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></h3>
 
