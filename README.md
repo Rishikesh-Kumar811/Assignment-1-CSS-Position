@@ -34,11 +34,13 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 
 <h2 align="center">✨ Features</h2>
 
-- 📍 **Multi-Layer Z-Index Stacking** — Intricate overlapping UI using `absolute`, `relative`, `sticky` positioning
-- 🍃 **Floating Leaf Shadow Effect** — 5 decorative leaf elements creating layered parallax-like depth
-- 🛒 **Vector E-Commerce Header** — Inline SVG cart with absolute-positioned badge counter
-- 🔤 **Dual Typography** — Inter for body and Playfair Display for elegant serif headings
-- 📱 **Responsive Position Adjustments** — Fixed/absolute elements gracefully adapt to mobile viewports
+| 🎯 Core Feature | ✨ Technical Implementation |
+| :--- | :--- |
+| 📍 **Multi-Layer Z-Index Stacking** | Intricate overlapping UI using `absolute`, `relative`, `sticky` positioning |
+| 🍃 **Floating Leaf Shadow Effect** | 5 decorative leaf elements creating layered parallax-like depth |
+| 🛒 **Vector E-Commerce Header** | Inline SVG cart with absolute-positioned badge counter |
+| 🔤 **Dual Typography** | Inter for body and Playfair Display for elegant serif headings |
+| 📱 **Responsive Position Adjustments** | Fixed/absolute elements gracefully adapt to mobile viewports |
 
 <br/>
 
