@@ -14,11 +14,15 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 
 </div>
 
+<br/>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
+
+<br/>
 
 <h2 align="center">✨ Features</h2>
 
@@ -30,9 +34,13 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 | 🔤 **Dual Typography** | Inter for body and Playfair Display for elegant serif headings |
 | 📱 **Responsive Position Adjustments** | Fixed/absolute elements gracefully adapt to mobile viewports |
 
+<br/>
+
 <h2 align="center">🏗️ Architecture</h2>
 
 > Pure CSS positioning architecture — multi-layered layout construction without modern framework dependencies.
+
+<br/>
 
 <h2 align="center">🚀 Quick Start</h2>
 
@@ -43,6 +51,8 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position.git
 # Open in browser
 cd Assignment-1-CSS-Position && open index.html
 \`\`\`
+
+<br/>
 
 <div align="center">
 
