@@ -22,13 +22,17 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 
 </div>
 
-## 🛠️ Tech Stack
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" alt="Tech Stack" />
 </p>
 
-## ✨ Features
+<br/>
+
+<h2 align="center">✨ Features</h2>
 
 - 📍 **Multi-Layer Z-Index Stacking** — Intricate overlapping UI using `absolute`, `relative`, `sticky` positioning
 - 🍃 **Floating Leaf Shadow Effect** — 5 decorative leaf elements creating layered parallax-like depth
@@ -36,11 +40,15 @@ A deep-dive into CSS positioning mechanics — demonstrating intricate overlappi
 - 🔤 **Dual Typography** — Inter for body and Playfair Display for elegant serif headings
 - 📱 **Responsive Position Adjustments** — Fixed/absolute elements gracefully adapt to mobile viewports
 
-## 🏗️ Architecture
+<br/>
+
+<h2 align="center">🏗️ Architecture</h2>
 
 > Pure CSS positioning architecture — multi-layered layout construction without modern framework dependencies.
 
-## 🚀 Quick Start
+<br/>
+
+<h2 align="center">🚀 Quick Start</h2>
 
 \`\`\`bash
 # Clone the repository
@@ -49,6 +57,8 @@ git clone https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position.git
 # Open in browser
 cd Assignment-1-CSS-Position && open index.html
 \`\`\`
+
+<br/>
 
 <div align="center">
 
